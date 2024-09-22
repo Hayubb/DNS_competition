@@ -23,9 +23,6 @@ To get started with the Wazobia Real Estate Predictive Modeling Hackathon, follo
 
 Clone the Repository: Begin by cloning this repository to your local machine using the following command:
 
-git clone https://github.com/FelixFrankFelix/DSN-MICROSOFT-HACKATHON.git
-Navigate to the Directory: Move into the project directory:
-
 cd DSN-MICROSOFT-HACKATHON
 Create a Virtual Environment (Optional): While not mandatory, it's recommended to create a virtual environment to isolate the project dependencies. You can create a virtual environment using venv or conda. For venv, execute:
 
